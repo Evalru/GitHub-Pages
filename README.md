@@ -23,10 +23,20 @@
 * Черногория
 * Армения
 
+
+
+## Таблицы
+
+|Место|Участник|Рейтинг|
+|-:|:-:|:-|
+|1|Женя|111|
+|2|Аня|98|
+|3|Иван|37|
+
 ## ~Metodologi~
+
 Метод ```.toString()```
 превращает числа в строку.
-
 Его можно использовать так:
 
     const a = 1
@@ -36,7 +46,8 @@
 
 
   ## Контакты
-  _тел. 7(923) 233-07-11_ \
-  <evalru@yandex.com> \
-  [HTTPS://VK.RU/ARHITEKTOR1](hTTPS://VK.RU/ARHITEKTOR1) \
-  ![Фон](Business background (18).jpg "картинка")
+  
+      _тел. 7(923) 233-07-11_ \
+      <evalru@yandex.com> \
+      [HTTPS://VK.RU/ARHITEKTOR1](hTTPS://VK.RU/ARHITEKTOR1) \
+  ![Фон](img/Business background (18).jpg "картинка")
