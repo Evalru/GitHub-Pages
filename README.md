@@ -47,7 +47,7 @@
 
   ## Контакты
   
-      _тел. 7(923) 233-07-11_ \
-      <evalru@yandex.com> \
-      [HTTPS://VK.RU/ARHITEKTOR1](hTTPS://VK.RU/ARHITEKTOR1) \
-  ![Фон](img/Business background (18).jpg "картинка")
+_тел. 7(923) 233-07-11_ \
+<evalru@yandex.com> \
+[HTTPS://VK.RU/ARHITEKTOR1](hTTPS://VK.RU/ARHITEKTOR1) \
+![Фон](img/B67676.jpg "картинка")
