@@ -23,6 +23,20 @@
 * Черногория
 * Армения
 
+## ~Metodologi~
+Метод ```.toString()```
+превращает числа в строку.
+
+Его можно использовать так:
+
+    const a = 1
+    const b = 2
+
+    (a + b).toString()
+
+
+  ## Контакты
   _тел. 7(923) 233-07-11_ \
-  
-  [HTTPS://VK.RU/ARHITEKTOR1](hTTPS://VK.RU/ARHITEKTOR1)
+  <evalru@yandex.com> \
+  [HTTPS://VK.RU/ARHITEKTOR1](hTTPS://VK.RU/ARHITEKTOR1) \
+  ![Фон](Business background (18).jpg "картинка")
